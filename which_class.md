@@ -15,7 +15,7 @@ Here are the core requirements for the physics major:
 
 ### Concentration Requirements
 
-In addition to the core requirements, every physics major must complete a concentration. You can choose to do either an inner concentration within the physics department, or you can choose to do a concentration in any other field of your choosing. Below is more information on concentration requirements.
+In addition to the core requirements, every biology major must complete a concentration. You can choose to do either an inner concentration within the physics department, or you can choose to do a concentration in any other field of your choosing. Below is more information on concentration requirements.
 
 <img src="/imgs/concentrations.png">
 

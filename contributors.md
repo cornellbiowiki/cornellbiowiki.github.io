@@ -5,8 +5,10 @@ layout: post
 <link rel="stylesheet" href="main.css">
 
 ## Spring 2022
+> Thanks to entire [Cornell Physics Wiki team](https://cornellphysicswiki.github.io/contributors.html) for the fork!
 
-- Fatima Yousuf
-- Colin Firth
-- Justine Singleton
-- Colin Murphy
+- Inle Bush
+- Jan-Paul Ramos
+- Ann Yeung
+- Gabriel Hatto
+- Styra Wang

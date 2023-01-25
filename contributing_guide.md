@@ -23,7 +23,7 @@ this website, you can either:
 
 ## Create an Issue Ticket
 
-We always welcome new ideas, suggestions, and comments. You can add an issue ticket [here](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io/issues). You will need to create a GitHub account to make an issue ticket.
+We always welcome new ideas, suggestions, and comments. You can add an issue ticket [here](https://github.com/CornellBioWiki/cornellbiowiki.github.io/issues). You will need to create a GitHub account to make an issue ticket.
 
 ## Edit the Website Code with Github Desktop
 
@@ -39,7 +39,7 @@ Go to [GitHub](https://github.com) and sign up. You’ll need to confirm your em
 
 ### 2. Edit the website content directly on GitHub Desktop
 
-Git can be a bit intimidating to learn for complete beginners. We do explain [how to edit the website with git](https://cornellphysicswiki.github.io/contributing_guide.html#edit-the-website-code-with-git) below. An advantage of this is that you can render your changes locally before submitting a pull request. However, it is also very easy to edit the website source code using GitHub Desktop. Just [visit our repository](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io) and find the page you want to edit. Then hit the edit button! As an example, we will edit the PHYS 1116 class page. Towards the top of the picture below, `cornellphysicswiki.github.io/classes/PHYS1116.md` shows the directory of the file we are editing. We click the pencil icon (in the red box) to edit the page.
+Git can be a bit intimidating to learn for complete beginners. We do explain [how to edit the website with git](https://cornellbiowiki.github.io/contributing_guide.html#edit-the-website-code-with-git) below. An advantage of this is that you can render your changes locally before submitting a pull request. However, it is also very easy to edit the website source code using GitHub Desktop. Just [visit our repository](https://github.com/CornellBioWiki/cornellbiowiki.github.io) and find the page you want to edit. Then hit the edit button! As an example, we will edit the BIOMG 1350 class page. Towards the top of the picture below, `cornellbiowiki.github.io/classes/BIOMG1350.md` shows the directory of the file we are editing. We click the pencil icon (in the red box) to edit the page.
 
 <img src="/imgs/edit_page.png">
 
@@ -49,7 +49,7 @@ There’s also some Markdown formatting specific to the software we’re using f
 
 ```
 ---
-title: PHYS 1116 - Mechanics and Special Relativity
+title: BIOMG 1350 - Introductory Biology: Cell and Developmental Biology
 layout: post
 ---
 ```
@@ -72,11 +72,11 @@ You should then be redirected to a new page where you can upload your file. Plea
 
 **Adding New Course Pages**
 
-If you notice that a physics or physics-related class is missing from this wiki, we would appreciate you adding a new course page and adding some information! To do this, first go to the code for this [default class page](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io/blob/master/default_class_page.md) and click "Copy raw contents".
+If you notice that a biology or biology-related class is missing from this wiki, we would appreciate you adding a new course page and adding some information! To do this, first go to the code for this [default class page](https://github.com/CornellBioWiki/cornellbiowiki.github.io/blob/master/default_class_page.md) and click "Copy raw contents".
 
 <img src="/imgs/copy_default_class.png">
 
-Navigate to the [classes folder](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io/tree/master/classes) on the GitHub repository. In the top right, click "Add file" and "Create new file". You should be redirected to a new page, where you can paste the raw contents of the default class page. Set the name of the file to be: `[Four letters of course name][Four numbers of course name].md`, for example, `PHYS2218.md`. Edit the content of the page and add information. Don't forget to change the "Class Name" in:
+Navigate to the [classes folder](https://github.com/CornellBioWiki/cornellbiowiki.github.io/tree/master/classes) on the GitHub repository. In the top right, click "Add file" and "Create new file". You should be redirected to a new page, where you can paste the raw contents of the default class page. Set the name of the file to be: `[Four letters of course name][Four numbers of course name].md`, for example, `BIOMG1350.md`. Edit the content of the page and add information. Don't forget to change the "Class Name" in:
 
 ```
 ---
@@ -89,7 +89,7 @@ layout: post
 
 Follow the instructions below for creating a pull request to add this class file to the website.
 
-Once you have made the pull request, go back to the [home page of the wiki](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io/blob/master/index.markdown). Edit the homepage and add a link to the class page you just created in the appropriate section by typing:
+Once you have made the pull request, go back to the [home page of the wiki](https://github.com/CornellBioWiki/cornellbiowiki.github.io/blob/master/index.markdown). Edit the homepage and add a link to the class page you just created in the appropriate section by typing:
 
 ```
 - [COURSE NAME](/classes/[name of the course page file you just made].html)
@@ -99,7 +99,7 @@ Create another pull request for this edit to the homepage.
 
 ### 3. Submit a pull request
 
-Now let's suppose I have added some general information to the PHYS 1116 page and I want to submit these changes. The way to do this is to create a pull request. Scroll to the bottom of the page you have edited. There should be a box that says `Commit Changes`. Below that, select the option `Create a new branch for this commit and start a pull request`. A new text box should appear that allows you to name your new branch. Don't worry too much about how branches and version control in GitHub work for now. Write a short name for your branch that relates to the changes you have made. 
+Now let's suppose I have added some general information to the BIOMG 1350 page and I want to submit these changes. The way to do this is to create a pull request. Scroll to the bottom of the page you have edited. There should be a box that says `Commit Changes`. Below that, select the option `Create a new branch for this commit and start a pull request`. A new text box should appear that allows you to name your new branch. Don't worry too much about how branches and version control in GitHub work for now. Write a short name for your branch that relates to the changes you have made. 
 
 <img src="/imgs/make_pr.png">
 
@@ -110,12 +110,10 @@ Click `Propose Changes`. After that, you should be redirected to a new page like
 Enter some comments about your changes so that the website 
 administrators/reviewer knows what changes you made. On the right, you will need to add at least one reviewer. This reviewer must be a website administrator and can be any of the people below:
 
-- Fatima Yousuf (fatimayousuf)
-- Colin Murphy (colincmurphy)
-- Ved Sriraman (sriramanved)
-- Ariel Marxena (arixena24)
-- Stella Dang (stelladang)
-- Devisree Tallapaneni (devisreet)
+- Inle Bush (imbush)
+- Jan-Paul Ramos (jpVinnie)
+- Gabriel Hatto (llomisoc)
+- Styra Wang (styraenol)
 
 Click "Create Pull Request". You're reviewer might suggest some edits to your changes. Once your changes are approved, the website will be updated. Most of the time, as soon as we get around to reviewing your changes, we’ll just accept them.
 
@@ -146,7 +144,7 @@ works before attempting to push your changes to the public website.
 
 On your computer, open a terminal and go to the folder where you want to store the website files using `cd` commands.
 
-Go the website [Github repository](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io). Click the "Code" button at the top right. There 
+Go the website [Github repository](https://github.com/CornellBioWiki/cornellbiowiki.github.io). Click the "Code" button at the top right. There 
 should be a small pop-up window that says "Clone" and a URL, as shown below. Copy this URL and go back to your terminal. Enter `git clone [URL]`.
 
 <img src="/imgs/clone_repo.png">
@@ -158,7 +156,7 @@ Now a copy of all the website files should be downloaded onto your computer!
 The files for the public-facing website are all on a branch called `master`. Only the website administrators can directly edit the website on the master branch.
 If you are not an administrator, then you will have to make your changes on a separate branch and request to merge your changes into `master`.
 
-Making a new branch is especially easy on the Desktop version of GitHub. Go back to the website [Github repository](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io). On the top left, there should be a gray box that says `master`. Click on this, and in the text box below, type what you want
+Making a new branch is especially easy on the Desktop version of GitHub. Go back to the website [Github repository](https://github.com/CornellBioWiki/cornellbiowiki.github.io). On the top left, there should be a gray box that says `master`. Click on this, and in the text box below, type what you want
 to name your new branch. Make sure that no other existing branch has this name. After that, an option should show up saying `Create branch: [your branch] from master`. Click on this, and you will have created a branch where you can make all your changes!
 
 <img src="/imgs/make_branch.png">
@@ -175,7 +173,7 @@ There’s also some Markdown formatting specific to the software we’re using f
 
 ```
 ---
-title: PHYS 1116 - Mechanics and Special Relativity
+title: BIOMG 1350 - Introductory Biology: Cell and Developmental Biology
 layout: post
 ---
 ```
@@ -199,7 +197,7 @@ You've created some amazing new pages and changes, and now you want to add them 
 - Enter `git commit -m [summary of your changes in a few words]`
 - Enter `git push`
 
-Go to the [pull requests section](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io/pulls) of the code repository and click "New Pull Request"
+Go to the [pull requests section](https://github.com/CornellBioWiki/cornellbiowiki.github.io/pulls) of the code repository and click "New Pull Request"
 
 <img src="/imgs/pull_request_1.png">
 
