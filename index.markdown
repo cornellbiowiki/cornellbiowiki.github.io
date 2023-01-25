@@ -35,29 +35,25 @@ This website is entirely student-run and managed by the e-board of the Society o
 - [Department Resources](https://physics.cornell.edu/general-resources)
 - [APS Resources for Undergraduates](https://www.aps.org/programs/education/undergrad/students/)
 
-## Physics Community Pages
+## Biology Community Pages
 
 - [SPS](https://www.spscornell.org) — Society of Physics Students
 - [WiP+](https://physics.cornell.edu/women-in-physics) — Women in Physics
 - [GWIS](https://gwiscornell.wordpress.com) — Graduate Women in Science
 
-## Physics Classes
+## Biology Classes
 
 | Tag                            | Description                               |
 | ------------------------------ | ----------------------------------------- |
-| <span class="tag ml-1/2">Intro</span>  | Introductory Classes |
-| <span class="tag ml-1/2">Intro+</span> | Honors or Alternative Introductory Classes |
-| <span class="tag ml-1/2">Core</span> | Quantum mechanics sequence, intermediate mechanics, and electricity and magnetism. Required for all physics majors. |
-| <span class="tag ml-1/2">Lab</span> | Laboratory Classes |
-| <span class="tag ml-1/2">Conc</span> | Inner Concentration required classes |
+| <span class="tag ml-1/2">Intro</span>  | Classes with no or very few prerequisites. |
+| <span class="tag ml-1/2">Lab</span> | Laboratory Classes. |
+| <span class="tag ml-1/2">JC</span> | Research discussions @ the Journal Club. |
 
  All the information in the below course pages is provided from students. Please check the course roster for official, up-to-date information. The Wiki is meant to supplement official sources with student insights, not replace them.
 
 ### 1000
 
-- [PHYS 1110](/classes/PHYS1110.html)
-- [PHYS 1112](/classes/PHYS1112.html) <span class="tag">Intro</span>
-- [PHYS 1116](/classes/PHYS1116.html) <span class="tag">Intro+</span>
+- [BIOMG 1350](/classes/BIOMG1350.html) <span class="tag">Intro</span>
 
 ### 2000
 
