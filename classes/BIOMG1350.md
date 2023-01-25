@@ -7,7 +7,7 @@ layout: post
 
 ## General Information
 
-The course introduces molecular mechanisms that underlie the organization, division, and growth of individual cells; how they organize during embryonic development to form functional tissues and organs in multicellular organisms; and how their misbehavior contributes to disease.
+The course introduces molecular mechanisms that underlie the organization, division, and growth of individual cells; how they organize during embryonic development to form functional tissues and organs in multicellular organisms; and how their misbehavior contributes to disease. The learning outcomes below indicate the topics and skills that students should master upon completion of the course. 
 
 ## Prerequisites
 
