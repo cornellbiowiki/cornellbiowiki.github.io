@@ -1,5 +1,5 @@
 ---
-title: PHYS 1116 - Mechanics and Special Relativity
+title: BIOMG 1350 - Introductory Biology: Cell and Developmental Biology
 layout: post
 ---
 
@@ -7,22 +7,15 @@ layout: post
 
 ## General Information
 
-First course in the honors introductory physics sequence. Either this or PHYS 1112 is required for all physics majors. 
-PHYS 1110 is a required corequisite.
+The course introduces molecular mechanisms that underlie the organization, division, and growth of individual cells; how they organize during embryonic development to form functional tissues and organs in multicellular organisms; and how their misbehavior contributes to disease. The learning outcomes below indicate the topics and skills that students should master upon completion of the course. 
 
 ## Prerequisites
 
-Calculus II credit (AP Calculus BC, MATH 1910, MATH 1120, or equivalent).
+No prerequisites.
 
 ## Topics Covered
 
-  - Coordinate Systems
-  - Kinematics
-  - Dynamics
-  - Conservation laws
-  - Central force fields
-  - Periodic motion
-  - Special relativity
+  - 
 
 ## Workload
 
